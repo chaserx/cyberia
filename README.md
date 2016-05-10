@@ -6,6 +6,8 @@ Siberia - sure.
 
 ![](screenshot.png)
 
+[Direct download of extension](https://github.com/chaserx/cyberia/blob/master/dist.crx?raw=true)
+
 # Acknowledgemnts
 Lovingly stolen from https://github.com/panicsteve/cloud-to-butt
 
