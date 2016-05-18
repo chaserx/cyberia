@@ -1,10 +1,12 @@
+![](app/images/icon-128.png)
 # Cyberia
+
 Like Cloud-to-Butt except for Cyber, guh.
 
 Cyber is my least favorite word. This extension merely replaces Cyber with
 Siberia - sure.
 
-![](screenshot.png)
+![](./screenshot.png)
 
 ## Download
 
